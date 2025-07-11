@@ -1,4 +1,4 @@
-Elliptic Curve Point Multiplication is core to Elliptic Curve Cryptography (ECC), used in modern security systems like Bitcoin, TLS, and more. It’s one of the practical algorithms in cryptography, relying on group theory, modular arithmetic, and number theory.
+Elliptic Curve Point Multiplication is core to Elliptic Curve Cryptography (ECC), used in modern security systems like Bitcoin, TLS, and more. It’s a practical algorithm in cryptography, relying on group theory, modular arithmetic, and number theory.
 
 ---
 **C implementation of Elliptic Curve Scalar Multiplication**, which is the significant for **ECDSA** (Elliptic Curve Digital Signature Algorithm) and **ECC cryptography**.
